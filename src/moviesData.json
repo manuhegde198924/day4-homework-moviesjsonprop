@@ -1,0 +1,85 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "subtitle": "Your Subtitle 1",
+      "description": "Your movie description 1.",
+      "image": "https://example.com/image1.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "subtitle": "Your Subtitle 2",
+      "description": "Your movie description 2.",
+      "image": "https://example.com/image2.jpg",
+      "rating": 4.8
+    },
+
+    {
+      "id": 3,
+      "title": "Pulp Fiction",
+      "subtitle": "Your Subtitle 3",
+      "description": "Your movie description 3.",
+      "image": "https://example.com/image3.jpg",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "subtitle": "Your Subtitle 4",
+      "description": "Your movie description 4.",
+      "image": "https://example.com/image4.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "title": "Forrest Gump",
+      "subtitle": "Your Subtitle 5",
+      "description": "Your movie description 5.",
+      "image": "https://example.com/image5.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "title": "The Godfather",
+      "subtitle": "Your Subtitle 6",
+      "description": "Your movie description 6.",
+      "image": "https://example.com/image6.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "title": "Schindler's List",
+      "subtitle": "Your Subtitle 7",
+      "description": "Your movie description 7.",
+      "image": "https://example.com/image7.jpg",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "title": "The Matrix",
+      "subtitle": "Your Subtitle 8",
+      "description": "Your movie description 8.",
+      "image": "https://example.com/image8.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "title": "Fight Club",
+      "subtitle": "Your Subtitle 9",
+      "description": "Your movie description 9.",
+      "image": "https://example.com/image9.jpg",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "subtitle": "Your Subtitle 10",
+      "description": "Your movie description 10.",
+      "image": "https://example.com/image10.jpg",
+      "rating": 4.9
+    }
+  ]
+}
